@@ -1,1 +1,1 @@
-# SSAFY 수업
+# TIL(Today I Learned) in SSAFY
